@@ -16,5 +16,5 @@ scenarios:
     url: http://blazedemo.com/reserve.php
     body:
       fromPort: Paris
-      toPort: Savannah GA
+      toPort: Savannah Georgia
   
