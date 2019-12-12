@@ -1,5 +1,5 @@
 # Configure the provider
-provider "azurerm" {
+provider "aws" {
     version = "=1.36.1"
 }
 
