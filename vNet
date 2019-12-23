@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "CSS" {
-  name     = "CSSManagement"
+  name     = "CSSManagement1"
   location = "USGov Virginia"
 }
 
